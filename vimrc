@@ -1,2 +1,1 @@
-colo default
 syntax on
