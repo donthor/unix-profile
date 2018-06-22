@@ -1,2 +1,2 @@
-colo desert
+colo default
 syntax on
