@@ -1,2 +1,2 @@
-# vi-profile
+# unix-profile
 changed directory
